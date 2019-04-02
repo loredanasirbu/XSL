@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+  <employee>
+    <id>1</id>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <nationality>Canadian</nationality>
+    <phone>+1 604 555 5555</phone>
+  </employee>
+  <employee>
+    <id>2</id>
+    <first_name>Joana</first_name>
+    <last_name>Foe</last_name>
+    <nationality>English</nationality>
+    <phone>+44 7911 123456</phone>
+  </employee>
+  <employee>
+    <id>3</id>
+    <first_name>Ella</first_name>
+    <last_name>Moon</last_name>
+    <nationality>British</nationality>
+    <phone>+44 2288 538962</phone>
+  </employee>
+  <employee>
+    <id>4</id>
+    <first_name>Pierre</first_name>
+    <last_name>Mue</last_name>
+    <nationality>French</nationality>
+    <phone>+33 02343 46753</phone>
+  </employee>
+  <employee>
+    <id>5</id>
+    <first_name>Jack</first_name>
+    <last_name>Dee</last_name>
+    <nationality>English</nationality>
+    <phone>+44 79231 178590</phone>
+  </employee>
+</employees>
